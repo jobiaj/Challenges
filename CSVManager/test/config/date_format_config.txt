@@ -1,0 +1,4 @@
+mode:dateformat
+from:%Y-%m-%d
+to:%b %d, %Y
+column:dob

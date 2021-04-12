@@ -1,0 +1,7 @@
+mode:create_new_column
+new_column:eligible_for_voting
+check_column:age
+value:18
+action:greaterthan
+condition_failure_val:F
+condition_success_val:T

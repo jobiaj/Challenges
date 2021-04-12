@@ -1,0 +1,4 @@
+mode:mergecolumn
+columns:first_name,last_name
+merge_format:first_name, last_name
+new_column_name:name
